@@ -1,0 +1,6 @@
+c:\users\goangle\documents\visual studio 2015\Projects\simple-oop\simple-oop\bin\Debug\simple-oop.exe.config
+c:\users\goangle\documents\visual studio 2015\Projects\simple-oop\simple-oop\bin\Debug\simple-oop.exe
+c:\users\goangle\documents\visual studio 2015\Projects\simple-oop\simple-oop\bin\Debug\simple-oop.pdb
+c:\users\goangle\documents\visual studio 2015\Projects\simple-oop\simple-oop\obj\Debug\simple-oop.csprojResolveAssemblyReference.cache
+c:\users\goangle\documents\visual studio 2015\Projects\simple-oop\simple-oop\obj\Debug\simple-oop.exe
+c:\users\goangle\documents\visual studio 2015\Projects\simple-oop\simple-oop\obj\Debug\simple-oop.pdb
